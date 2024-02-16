@@ -1,0 +1,6 @@
+project "glad"
+kind "StaticLib"
+language "C"
+files "src/glad.c"
+includedirs "include"
+targetdir "../libs"
