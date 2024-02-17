@@ -52,6 +52,11 @@ int main(int argc, char** argv)
 	}
 
 	/**
+	* Setting vsync to on.
+	*/
+	glfwSwapInterval(1);
+
+	/**
 	 * The application loop that checks if the window is meant to be closed before exiting.
 	 */
 	while (!glfwWindowShouldClose(window))
