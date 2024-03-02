@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangles", "Triangles\Triangles.vcxproj", "{AE962ADD-1A01-DF53-633F-90F9CFE8BCA8}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creating a window", "Creating a window\Creating a window.vcxproj", "{CBC36FFE-37DA-6D94-8051-F9B5ECA63E1C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glad", "deps\glad\glad.vcxproj", "{DD62977C-C999-980D-7286-7E105E9C140F}"
@@ -11,6 +13,10 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE962ADD-1A01-DF53-633F-90F9CFE8BCA8}.Debug|x64.ActiveCfg = Debug|x64
+		{AE962ADD-1A01-DF53-633F-90F9CFE8BCA8}.Debug|x64.Build.0 = Debug|x64
+		{AE962ADD-1A01-DF53-633F-90F9CFE8BCA8}.Release|x64.ActiveCfg = Release|x64
+		{AE962ADD-1A01-DF53-633F-90F9CFE8BCA8}.Release|x64.Build.0 = Release|x64
 		{CBC36FFE-37DA-6D94-8051-F9B5ECA63E1C}.Debug|x64.ActiveCfg = Debug|x64
 		{CBC36FFE-37DA-6D94-8051-F9B5ECA63E1C}.Debug|x64.Build.0 = Debug|x64
 		{CBC36FFE-37DA-6D94-8051-F9B5ECA63E1C}.Release|x64.ActiveCfg = Release|x64

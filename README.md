@@ -9,3 +9,5 @@ This will also be a project to motivate myself to do some graphics programming o
     <summary>Friday 16, Febuary 2024</summary>
     Created an application to simply create an OpenGL window.
 </details>
+
+## Week 2
